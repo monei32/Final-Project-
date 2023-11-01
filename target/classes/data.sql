@@ -1,0 +1,12 @@
+INSERT INTO brand (brand_name) VALUES ('Toro');
+INSERT INTO brand (brand_name) VALUES ('John Deere');
+INSERT INTO brand (brand_name) VALUES ('Gravely');
+INSERT INTO brand (brand_name) VALUES ('Wright');
+INSERT INTO brand (brand_name) VALUES ('Cub Cadet');
+INSERT INTO brand (brand_name) VALUES ('EXMARK');
+INSERT INTO brand (brand_name) VALUES ('SCAG');
+INSERT INTO brand (brand_name) VALUES ('Red Max');
+INSERT INTO brand (brand_name) VALUES ('Lawn Boy');
+INSERT INTO brand (brand_name) VALUES ('Walker');
+INSERT INTO brand (brand_name) VALUES ('Ferris');
+INSERT INTO brand (brand_name) VALUES ('Bob Cat');

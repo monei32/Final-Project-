@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    username: small_engine_store
+    password: small_engine_store
+    url: jdbc:mysql://localhost:3306/small_engine_store
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    defer-datasource-initialization: true
+  
+  sql:
+    init:
+      mode: always
